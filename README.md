@@ -11,7 +11,7 @@ I'm a third-year undergraduate at the University of Moratuwa, passionate about l
 
 ## 🔥 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nirojiha26&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nirojiha26&theme=dracula&area=true&hide_border=true)
 
 ---
 
