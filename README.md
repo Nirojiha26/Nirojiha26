@@ -27,10 +27,10 @@ I'm a third-year undergraduate at the University of Moratuwa, passionate about l
 ## 🛠️ Technologies & Tools I Use
 
 ### 🖥️ Frontend:
-- Next.js | React.js | JavaScript | TypeScript
+- Angular | Next.js | TypeScript | ReactNative
 
 ### 🛢️ Backend:
-- Node.js | MongoDB  
+-  .NET | Node.js | MongoDB | Ballerina
 - JWT Authentication
 
 ### 🎨 UI/UX & Design:
@@ -38,7 +38,7 @@ I'm a third-year undergraduate at the University of Moratuwa, passionate about l
 
 ### ⚙️ Tools & Workflow:
 - Git | GitHub  
-- Postman | VS Code | ClickUp
+- Postman | VS Code | ClickUp | Swagger
 
 ---
 
