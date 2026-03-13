@@ -69,20 +69,6 @@ I enjoy turning ideas into real-world software solutions and continuously learni
 - Cloud & DevOps Practices  
 
 ---
-
-
-
-
-## 🔥 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nirojiha26&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
-
-
-
-
-
 ## 🤝 Let’s Connect
 
 🔗 LinkedIn: https://www.linkedin.com/in/nirojiha-nagendram-2248b6267  
